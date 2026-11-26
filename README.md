@@ -68,7 +68,7 @@ Users should define their own study-area geometry in Google Earth Engine before 
 
 ## Author
 
-Lucia Ganchozo Llano
+Lucia van der Heijden
 
 ## License
 
